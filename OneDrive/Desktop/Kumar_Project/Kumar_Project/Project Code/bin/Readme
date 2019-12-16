@@ -1,0 +1,49 @@
+Java Version 8
+
+Project Contents:
+1. MergeSort
+2. InsertionSort
+3. BubbleSort
+4. HeapSort
+5. QuickSort
+6. ExecutionTime.java(Caculates execution time for each sorting method)
+7. Graph_Time_Vs_Input.py(Plot graph for time complexity versus input size)
+
+Sorting methods implemented under this project:
+-----------------------------------------------------
+
+1. MergeSort
+2. InsertionSort
+3. BubbleSort
+4. HeapSort
+5. QuickSort
+
+Steps for code execution:
+----------------------------
+
+Step1: Import Project Source code in Eclipse
+
+Step2: Each Sorting Method to be executed separately.
+	(Separate java files for each sort)
+
+Step3: Eclipse Output Console User input
+       Below is Example for MergeSort Code:  
+************************************************
+Enter the Size of the array:
+5
+
+Enter the elements of the array:
+16
+5
+8
+90
+4
+
+Provided Array
+[16, 5, 8, 90, 4]
+
+Array after Sorting
+[4, 5, 8, 16, 90]
+************************************************
+
+Step4: Execution time versus input size for each sorting method is implemented under 'ExecutionTime.java' and 'Graph_Time_Vs_Input.py'.(Open .py Code in Pycharm or Anaconda)
