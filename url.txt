@@ -1,0 +1,30 @@
+***List Of Suspicious URLS
+
+1)http://www.kathiyavad.com/iphone/js/Process/clients/...
+
+2)
+http://recadastramentoseguroweb.com.br/abs/cada/HF8999HW9H9DASHFIABSDA...
+
+3)
+http://mohalyphoto.com/sucursalvirtual/201.232.182.2464320/sucursalvir...
+
+
+4)
+http://www.sibpromalp-nsk.ru/spaw2/plugins/core/dialogs/img/www.paypal...
+
+
+
+*** Valid URLS
+
+1)
+www.icici.com
+
+2)
+www.google.com
+
+
+3)
+https://books.google.co.in/books?isbn
+
+4)
+www.icicibank.com/safe-online-banking/safe-online-banking.page

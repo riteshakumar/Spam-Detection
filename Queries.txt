@@ -1,0 +1,33 @@
+
+drop database 8943DB;
+create database 8943DB;
+use 8943DB
+
+create table testimonial(
+tid int(5),
+text varchar(5000),
+mdate varchar(20),
+mtime varchar(20),
+primary key(tid)
+);
+
+
+create table urlContents(
+url varchar(100),
+primary Key(url)
+ );
+
+create table BlackListurl(
+url varchar(100),
+primary Key(url)
+ );
+
+create table negativeComments(
+comment varchar(100),
+stemmedComment varchar(100),
+status int(2),
+primary Key(comment)
+ );
+
+
+
